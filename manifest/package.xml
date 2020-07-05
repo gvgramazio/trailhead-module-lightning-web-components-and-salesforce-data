@@ -25,6 +25,10 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Working_with_Data</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
         <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
