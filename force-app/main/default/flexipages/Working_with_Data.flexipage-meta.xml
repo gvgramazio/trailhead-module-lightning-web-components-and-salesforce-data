@@ -15,6 +15,12 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>accountList</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>contactList</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
