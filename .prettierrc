@@ -3,11 +3,26 @@
   "overrides": [
     {
       "files": "**/lwc/**/*.html",
-      "options": { "parser": "lwc" }
+      "options": {
+        "parser": "lwc",
+        "printWidth": 120,
+        "tabWidth": 2
+      }
     },
     {
       "files": "*.{cmp,page,component}",
-      "options": { "parser": "html" }
+      "options": {
+        "parser": "html",
+        "printWidth": 120,
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.{cls,trigger}",
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 2
+      }
     }
   ]
 }
